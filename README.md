@@ -51,19 +51,27 @@ payal@dev:~$ ls tech_stack/
 ![C++](https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=00FF41)
 ![CSS3](https://img.shields.io/badge/css3-000000.svg?style=for-the-badge&logo=css3&logoColor=00FF41)
 ![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![TypeScript](https://img.shields.io/badge/typescript-000000.svg?style=for-the-badge&logo=typescript&logoColor=00FF41)
 ![React](https://img.shields.io/badge/react-000000.svg?style=for-the-badge&logo=react&logoColor=00FF41)
+![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=00FF41)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-000000.svg?style=for-the-badge&logo=tailwind-css&logoColor=00FF41)
 ![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FF41)
+![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=00FF41)
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
 ![R](https://img.shields.io/badge/r-000000.svg?style=for-the-badge&logo=r&logoColor=00FF41)
 ![PowerShell](https://img.shields.io/badge/PowerShell-000000.svg?style=for-the-badge&logo=powershell&logoColor=00FF41)
 ![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=00FF41)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000.svg?style=for-the-badge&logo=mongodb&logoColor=00FF41)
+![Firebase](https://img.shields.io/badge/firebase-000000.svg?style=for-the-badge&logo=firebase&logoColor=00FF41)
+![Docker](https://img.shields.io/badge/docker-000000.svg?style=for-the-badge&logo=docker&logoColor=00FF41)
+![AWS](https://img.shields.io/badge/AWS-000000.svg?style=for-the-badge&logo=amazon-aws&logoColor=00FF41)
 ![WordPress](https://img.shields.io/badge/WordPress-000000.svg?style=for-the-badge&logo=WordPress&logoColor=00FF41)
 ![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=00FF41)
 ![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=00FF41)
 ![NumPy](https://img.shields.io/badge/numpy-000000.svg?style=for-the-badge&logo=numpy&logoColor=00FF41)
 ![Pandas](https://img.shields.io/badge/pandas-000000.svg?style=for-the-badge&logo=pandas&logoColor=00FF41)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-000000.svg?style=for-the-badge&logo=scikit-learn&logoColor=00FF41)
+![TensorFlow](https://img.shields.io/badge/tensorflow-000000.svg?style=for-the-badge&logo=tensorflow&logoColor=00FF41)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000.svg?style=for-the-badge&logo=Matplotlib&logoColor=00FF41)
 ![Plotly](https://img.shields.io/badge/Plotly-000000.svg?style=for-the-badge&logo=plotly&logoColor=00FF41)
 ![Figma](https://img.shields.io/badge/figma-000000.svg?style=for-the-badge&logo=figma&logoColor=00FF41)
@@ -102,8 +110,6 @@ payal@dev:~$ ./contribution_graph.sh --animate
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/payal225/payal225/output/github-contribution-grid-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/payal225/payal225/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<sub>⚠️ Snake animation needs a one-time setup — see instructions below.</sub>
 
 </div>
 
