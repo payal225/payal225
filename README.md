@@ -89,11 +89,11 @@ payal@dev:~$ ./run_stats.sh --live
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=payal225&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=payal225&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41)
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=payal225&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6C7086)
+![Streak Stats](https://streak-stats.demolab.com/?user=payal225&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6C7086)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payal225&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&border_color=00FF41)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=payal225&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&border_color=00FF41)
 
 </div>
 
