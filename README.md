@@ -131,19 +131,11 @@ payal@dev:~$ ./contribution_graph.sh --animate
 
 </div>
 
-### 🔝 Top Contributed Repo
-
-<div align="center">
-
-![Top Contrib](https://github-contributor-stats.vercel.app/api?username=payal225&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-</div>
-
 ---
 
 <div align="center">
 
-[![Visitors](https://visitcount.itsvg.in/api?id=payal225&icon=9&color=2)](https://visitcount.itsvg.in)
+[![Visitors](https://komarev.com/ghpvc/?username=payal225&color=00ff41&style=flat-square&label=Profile+Views)](https://github.com/payal225)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF41,100:0D1117&height=100&section=footer" width="100%"/>
 
