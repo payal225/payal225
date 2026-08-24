@@ -131,6 +131,20 @@ payal@dev:~$ ./contribution_graph.sh --animate
 
 </div>
 
+## 🎮 Play Tic-Tac-Toe With Me
+
+<div align="center">
+
+Fancy a quick game? Open an issue on this repo and challenge the bot!
+
+[![Play Now](https://img.shields.io/badge/▶️_Play_Tic--Tac--Toe-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/payal225/payal225/issues/new?title=play+tic-taction-toe&body=Let%27s+play!)
+
+<sub>Comment <code>play tic-taction-toe</code> to start a new game, then use <code>tic-taction-toe >>CELL_NUMBER<<</code> to make your move.</sub>
+
+</div>
+
+<br/>
+
 ---
 
 <div align="center">
