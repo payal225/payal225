@@ -1,0 +1,19 @@
+name: Tic Taction Toe
+
+on:
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Play Tic Taction Toe
+        uses: AnsellMaximilian/tic-taction-toe@main
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
