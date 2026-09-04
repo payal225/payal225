@@ -99,29 +99,14 @@ payal@dev:~$ ./run_stats.sh --live
 
 <br/>
 
-```bash
-payal@dev:~$ ./contribution_graph.sh --animate
-```
 
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/payal225/payal225/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/payal225/payal225/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/payal225/payal225/output/github-contribution-grid-snake.svg" />
-</picture>
 
-</div>
 
 <br/>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=payal225&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
 
 ### ✍️ Random Dev Quote
 
